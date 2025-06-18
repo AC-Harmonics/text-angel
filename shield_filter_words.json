@@ -2,6 +2,27 @@
   "bullying": ["stupid", "idiot", "loser", "lame"],
   "aggression": ["hate", "kill", "punch", "hurt"],
   "self-talk": ["worthless", "useless", "pathetic"],
-  "profanity": ["damn", "hell", "crap"],
+  "profanity": [
+    "damn",
+    "hell",
+    "crap",
+    "shit",
+    "fuck",
+    "bitch",
+    "asshole",
+    "bastard",
+    "dick",
+    "piss",
+    "bullshit",
+    "god",
+    "jesus",
+    "ass",
+    "cock",
+    "nigger",
+    "nigga",
+    "anus",
+    "cunt",
+    "stick"
+  ],
   "sensitivity": ["annoying", "dumb", "trash"]
 }

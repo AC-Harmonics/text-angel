@@ -1,0 +1,160 @@
+2025-06-24 10:54:43 | Jagger | Tone: SHIELD
+Original: hi
+Rewritten: hi
+Shielded Words: 0
+
+2025-06-24 11:00:47 | Jagger | Tone: SHIELD
+Original: bitch
+Rewritten: ▆▆▆
+Shielded Words: 1
+
+2025-06-24 14:03:26 | Jagger | Tone: SHIELD
+Original: ass
+Rewritten: ▆▆▆
+Shielded Words: 1
+
+2025-06-26 10:36:22 | Jagger | Tone: None
+Original: hi
+Rewritten: hi
+Shielded Words: 0
+
+2025-06-26 10:36:25 | Jagger | Tone: None
+Original: hi
+Rewritten: hi
+Shielded Words: 0
+
+2025-06-26 10:36:25 | Jagger | Tone: SHIELD
+Original: hi
+Rewritten: hi
+Shielded Words: 0
+
+2025-06-26 10:36:33 | Jagger | Tone: None
+Original: you're so sweet but ugly
+Rewritten: you're so sweet but ugly
+Shielded Words: 0
+
+2025-06-26 10:36:33 | Jagger | Tone: SHIELD
+Original: hi
+Rewritten: hi
+Shielded Words: 0
+
+2025-06-26 10:53:49 | Jagger | Tone: SHIELD
+Original: fuck
+Rewritten: ▆▆▆
+Shielded Words: 1
+
+2025-06-26 11:35:10 | Jagger | Tone: None
+Original: You are kind of ugly
+Rewritten: You are kind of ugly
+Shielded Words: 0
+
+2025-06-26 11:37:52 | Jagger | Tone: None
+Original: you are ugly 
+Rewritten: you are ugly 
+Shielded Words: 0
+
+2025-06-26 13:35:36 | Jagger | Tone: None
+Original: you're ugly 
+Rewritten: you're ugly 
+Shielded Words: 0
+
+2025-06-26 14:00:56 | Jagger | Tone: None
+Original: hello
+Rewritten: hello
+Shielded Words: 0
+
+2025-06-26 14:17:01 | d | Tone: SHIELD
+Original: shit
+Rewritten: ▆▆▆
+Shielded Words: 1
+
+2025-07-01 12:49:51 | d | Tone: None
+Original: ugly
+Rewritten: ugly
+Shielded Words: 0
+
+2025-07-01 12:49:56 | d | Tone: TRUTH
+Original: ugly
+Rewritten: Unattractive
+Shielded Words: 0
+
+2025-07-01 12:50:03 | d | Tone: TRUTH
+Original: you disgust me.
+Rewritten: I find your behavior disappointing.
+Shielded Words: 0
+
+2025-07-01 12:50:29 | d | Tone: TRUTH
+Original: Why are you so fat ...
+Rewritten: I noticed that you've gained some weight recently...
+Shielded Words: 0
+
+2025-10-30 14:55:24 | s | Tone: None
+Original: you are ugly
+Rewritten: you are ugly
+Shielded Words: 0
+
+2025-10-30 14:55:27 | s | Tone: None
+Original: fuck
+Rewritten: fuck
+Shielded Words: 0
+
+2025-10-30 14:55:32 | s | Tone: None
+Original: fuck
+Rewritten: fuck
+Shielded Words: 0
+
+2025-10-30 14:55:32 | s | Tone: SHIELD
+Original: gross i hate you
+Rewritten: gross i hate you
+Shielded Words: 0
+
+2025-10-30 14:55:34 | s | Tone: None
+Original: fuck
+Rewritten: fuck
+Shielded Words: 0
+
+2025-10-30 14:55:34 | s | Tone: SHIELD
+Original: fuck
+Rewritten: ▆▆▆
+Shielded Words: 1
+
+2025-10-30 14:55:37 | s | Tone: None
+Original: fuck
+Rewritten: fuck
+Shielded Words: 0
+
+2025-10-30 14:55:37 | s | Tone: SHIELD
+Original: ass
+Rewritten: ▆▆▆
+Shielded Words: 1
+
+2025-10-30 14:55:43 | s | Tone: None
+Original: i love you
+Rewritten: i love you
+Shielded Words: 0
+
+2025-10-30 14:55:43 | s | Tone: SHIELD
+Original: ass
+Rewritten: ▆▆▆
+Shielded Words: 1
+
+2025-10-30 14:55:47 | s | Tone: TRUTH
+Original: i love you
+Rewritten: I have deep feelings of affection for you.
+Shielded Words: 0
+
+2025-10-30 14:55:47 | s | Tone: SHIELD
+Original: ass
+Rewritten: ▆▆▆
+Shielded Words: 1
+
+2025-10-30 14:55:51 | s | Tone: TRUTH
+Original: i hate you!
+Rewritten: I have some strong negative feelings towards you.
+Shielded Words: 0
+
+2025-10-30 14:55:51 | s | Tone: SHIELD
+Original: ass
+Rewritten: ▆▆▆
+Shielded Words: 1
+

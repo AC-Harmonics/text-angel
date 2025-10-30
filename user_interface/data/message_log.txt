@@ -1,0 +1,240 @@
+[2025-05-15 14:09:36.515921] Jagger | Tone: GRACE
+Original: you're ugly 
+Rewritten: While everyone is entitled to their opinions, it's important to remember that true beauty comes from within and each person has unique qualities that make them special.
+
+[2025-05-15 14:10:41.713764] Jagger | Tone: TRUTH
+Original: I dont wanna go out with you anymore cause you talk too much
+
+Rewritten: Thank you for the time we've spent together. I've been reflecting and feel that our communication styles might not be the most compatible. I appreciate your openness, but sometimes I find it a little overwhelming. I think it might be best for us to part ways romantically.
+
+[2025-05-15 14:11:09.879317] Jagger | Tone: TRUTH
+Original: You've been super mean. I don't think i should hang out with you for awhile.....
+Rewritten: I've noticed some behaviors that have made me feel uncomfortable recently. I believe it might be beneficial for us to spend some time apart to reassess our relationship.
+
+[2025-05-15 14:11:21.780570] Jagger | Tone: CALM
+Original: I hate when you say "you're not the boss"!!!!!
+Rewritten: I feel a bit uneasy when you mention "you're not the boss". It would be great if we could communicate more harmoniously.
+
+[2025-05-15 15:23:39.021797] Jagger | Tone: GRACE
+Original: you're so ugly 
+Rewritten: I believe that everyone is uniquely beautiful in their own way.
+
+[2025-05-15 15:23:51.276543] Jagger | Tone: GRACE
+Original: let's break up, you disgust me. 
+Rewritten: I believe it would be best for both of us if we part ways. Our differences have created a rift that I find difficult to bridge, and I think it would be healthier if we pursue our individual paths separately.
+
+[2025-05-15 15:23:57.020269] Jagger | Tone: TRUTH
+Original: let's break up, you disgust me. 
+Rewritten: I think it's best for both of us if we part ways. Our compatibility seems to be quite challenging and it's affecting my feelings towards our relationship.
+
+[2025-05-15 15:24:18.667184] Jagger | Tone: CALM
+Original: You make me so mad hwen you do that!!
+Rewritten: I feel a bit unsettled when you do that.
+
+[2025-05-15 15:26:27.619749] Jagger | Tone: TRUTH
+Original: you're ugly
+Rewritten: While it's essential to have open communication, it's also important to keep in mind that physical appearance is subjective and everyone has their unique qualities.
+
+[2025-05-15 15:27:40.188669] Jagger | Tone: TRUTH
+Original: you make me so mad when you ignore me i hate you
+Rewritten: I feel upset and neglected when I don't receive your attention. It's important for our relationship to have open and respectful communication.
+
+[2025-05-15 15:33:31.764750] Jagger | Tone: GRACE
+Original: I think you're mean and you don't know how to interact with anyone. You are socially awkward. 
+Rewritten: I believe there might be room for you to work on your communication skills and social interactions. Your approach can sometimes come across as a bit harsh, which might make others feel uncomfortable. It might be beneficial to consider more empathetic and understanding ways of interacting with those around you.
+
+[2025-05-15 15:33:50.542862] Jagger | Tone: GRACE
+Original: You smell really bad and I don't want to sit next to you anymore.
+Rewritten: I've noticed that there might be a slight issue with body odor. It's completely natural and happens to everyone. Perhaps we could sit a little apart for now until it can be addressed. It's nothing personal, I promise.
+
+[2025-05-15 15:34:04.610978] Jagger | Tone: TRUTH
+Original: You smell really bad and I don't want to sit next to you anymore.
+Rewritten: I value our relationship and feel it's important to communicate openly. I've noticed that there seems to be a strong scent when we sit together. It might be helpful to use a deodorant or freshen up a bit before we meet. I hope you understand and take this in the most positive way.
+
+[2025-05-15 15:34:23.355852] Jagger | Tone: TRUTH
+Original: bitch
+
+Rewritten: I'm sorry, but there seems to be an error in your message as it's showing up as a series of blocks. Could you please retype or clarify what you intended to say? I'm here to help.
+
+[2025-05-15 15:34:34.140984] Jagger | Tone: TRUTH
+Original: youre an ass
+Rewritten: I'm finding it challenging to work with you at the moment.
+
+[2025-05-15 15:37:57.410119] Jagger | Tone: TRUTH
+Original: You smell really bad and I don't want to sit next to you anymore.
+Rewritten: I've noticed that there seems to be a persistent odor around our shared space. It would be beneficial for both of us if we could find a solution to this issue. Perhaps we could consider moving our seating arrangement?
+
+[2025-05-15 15:38:00.497276] Jagger | Tone: GRACE
+Original: You smell really bad and I don't want to sit next to you anymore.
+Rewritten: I've noticed a change in your scent recently and it might be more comfortable for both of us if we sit a little further apart.
+
+[2025-05-15 15:39:22.613736] Jagger | Tone: GRACE
+Original: you are an ass 
+Output: you are an ass 
+
+[2025-05-15 15:42:38.481139] Jagger | Tone: GRACE
+Original: you are an ass 
+Output: you are an ▆▆▆ 
+
+[2025-05-15 15:49:11.676678] Jagger | Tone: TRUTH
+Original: I hate you because you're mean and you don't have any friends. That is why no one talks to you. 
+Filtered: I hate you because you're mean and you don't have any friends. That is why no one talks to you. 
+
+[2025-05-15 15:49:22.821293] Jagger | Tone: TRUTH
+Original: You're ugly!
+
+Filtered: You're ugly!
+
+
+[2025-05-15 15:49:28.651648] Jagger | Tone: TRUTH
+Original: I don't like you anymore 
+Filtered: I don't like you anymore 
+
+[2025-05-15 15:50:32.078312] Jagger | Tone: GRACE
+Original: I don't like you cause you smell and so i don't want to sit next to you anymore 
+Output: I don't like you cause you smell and so i don't want to sit next to you anymore 
+
+[2025-05-15 15:50:56.318386] Jagger | Tone: GRACE
+Original: I don't like you cause you smell and so i don't want to sit next to you anymore 
+Output: I don't like you cause you smell and so i don't want to sit next to you anymore 
+
+[2025-05-15 15:51:17.957979] Jagger | Tone: TRUTH
+Original: I don't like you cause you smell and so i don't want to sit next to you anymore 
+Output: I don't like you cause you smell and so i don't want to sit next to you anymore 
+
+[2025-05-15 15:52:57.733729] Jagger | Tone: GRACE
+Original: I don't like you cause you smell and so i don't want to sit next to you anymore 
+Output: I don't like you cause you smell and so i don't want to sit next to you anymore 
+
+[2025-05-15 15:55:38.926837] Jagger | Tone: GRACE
+Original: ew i hate you
+Rewritten: ew i hate you
+
+[2025-05-15 15:57:12.410030] Jagger | Tone: GRACE
+Original: i dont like you you smell bad and you disgust me 
+Filtered: i dont like you you smell bad and you disgust me
+
+[2025-05-15 16:55:27.894473] Jagger | Tone: GRACE
+Original: so like, i want to break up because people say mean things about you. 
+Filtered: so like, i want to break up because people say mean things about you. 
+
+[2025-05-15 19:15:33.365031] Jagger | Tone: TRUTH
+Original: You make me annoyed because you talk too much and your voice is annoying. you suck. 
+Filtered: You make me annoyed because you talk too much and your voice is annoying. you suck. 
+
+[2025-05-15 19:15:50.081794] Jagger | Tone: TRUTH
+Original: bitch
+Filtered: ▆▆▆
+
+[2025-05-15 19:16:16.034063] Jagger | Tone: GRACE
+Original: go to hell
+Filtered: go to ▆▆▆
+
+[2025-05-15 21:08:12.011057] Jagger | Tone: CALM
+Original: you're disgusting and i hate you so so so much just die. 
+Filtered: you're disgusting and i hate you so so so much just die. 
+
+[2025-05-15 21:09:08.281820] Jagger | Tone: CALM
+Original: you're disgusting and i hate you so so so much just die. 
+Filtered: you're disgusting and i hate you so so so much just die. 
+
+[2025-05-15 21:09:15.758679] Jagger | Tone: CALM
+Original: you're disgusting and i hate you so so so much just die. 
+Filtered: you're disgusting and i hate you so so so much just die. 
+
+[2025-05-15 21:09:30.812896] Jagger | Tone: GRACE
+Original: you're disgusting and i hate you so so so much just die. 
+Filtered: you're disgusting and i hate you so so so much just die. 
+
+[2025-05-15 21:09:47.832168] Jagger | Tone: GRACE
+Original: you're disgusting and i hate you so so so much just die. 
+Filtered: you're disgusting and i hate you so so so much just die. 
+
+[2025-05-15 21:10:05.264933] Jagger | Tone: TRUTH
+Original: you're disgusting and i hate you so so so much just die. 
+Filtered: you're disgusting and i hate you so so so much just die. 
+
+[2025-05-15 21:10:32.456806] Jagger | Tone: TRUTH
+Original: why are you so mean to me? 
+Filtered: why are you so mean to me? 
+
+[2025-05-15 21:10:44.423119] Jagger | Tone: GRACE
+Original: why are you so mean to me? 
+Filtered: why are you so mean to me? 
+
+[2025-05-15 21:10:54.165642] Jagger | Tone: GRACE
+Original: why are you so mean to me? 
+Filtered: why are you so mean to me? 
+
+[2025-05-15 21:11:34.817063] Jagger | Tone: GRACE
+Original: why are you so mean to me? 
+Filtered: why are you so mean to me? 
+
+[2025-05-15 21:11:42.087023] Jagger | Tone: GRACE
+Original: why are you so mean to me? 
+Filtered: why are you so mean to me? 
+
+[2025-05-15 21:12:36.448641] Jagger | Tone: GRACE
+Original: why are you so mean to me? 
+Filtered: why are you so mean to me? 
+
+[2025-05-15 21:39:58.004942] Jagger p | Tone: TRUTH
+Original: you are disgusting. you should die 
+Filtered: you are disgusting. you should die 
+
+[2025-05-15 21:40:16.668499] Jagger p | Tone: TRUTH
+Original: ass
+Filtered: ▆▆▆
+
+[2025-05-15 21:40:30.128865] Jagger p | Tone: TRUTH
+Original: you are an ass
+Filtered: you are an ▆▆▆
+
+[2025-05-15 21:41:13.421162] Jagger p | Tone: CALM
+Original: you suck balls
+Filtered: you suck balls
+
+[2025-05-15 21:41:22.114421] Jagger p | Tone: TRUTH
+Original: you suck balls
+Filtered: you suck balls
+
+[2025-05-15 21:47:17.191337] JOVI | Tone: TRUTH
+Original: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+Filtered: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+
+[2025-05-15 21:47:38.852340] JOVI | Tone: TRUTH
+Original: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+Filtered: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+
+[2025-05-15 21:48:05.822758] JOVI | Tone: GRACE
+Original: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+Filtered: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+
+[2025-05-15 21:48:40.093489] JOVI | Tone: GRACE
+Original: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+Filtered: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+
+[2025-05-15 21:55:31.565187] JOVI | Tone: GRACE
+Original: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+Filtered: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+
+[2025-05-15 21:55:50.247276] JOVI | Tone: TRUTH
+Original: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+Filtered: YOU ARE MEAN AND I HATE YOU AND YOU SUCK AND YOUR FAMILY SUCKS AND YOUR RUDE AND CRUDE AND I HATE YOU 
+
+[2025-05-16 15:02:09.585360] Jagger | Tone: GRACE
+Original: ew i hate you 
+Filtered: ew i hate you 
+
+[2025-05-16 15:02:38.495395] Jagger | Tone: GRACE
+Original: ew i hate you 
+Filtered: ew i hate you 
+
+[2025-05-16 15:03:25.952813] Jagger | Tone: GRACE
+Original: hell
+Filtered: ▆▆▆
+
+[2025-05-16 15:03:43.723588] Jagger | Tone: GRACE
+Original: go  to hell
+Filtered: go  to ▆▆▆
+
